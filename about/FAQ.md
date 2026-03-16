@@ -1,4 +1,4 @@
 # Frequently Asked Questions
-  ## Timeline
-  ## Military
-  ## Civilians
+## Timeline
+## Military
+## Civilians
