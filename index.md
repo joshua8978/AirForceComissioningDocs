@@ -1,4 +1,5 @@
 [id1]: ## "Air Force Recruiting Squadron"
+[id2]: ## "Letter of Recommendation"
 
 # Commissioning in the Air Force
 This guide is intended to walk you through (roughly) the process of commissioning in the United States Air Force through Officer Training School (OTS). There are many routes to commissioning, and OTS is one of the least sure ways to get selected. I recommend you fully explore [all of your options] (Link coming soon...) to commission, as many others (such as the Academy, ROTC etc) provide you with a much better chance of getting picked up. If OTS is the route you want/have to go, please continue reading.
@@ -25,9 +26,18 @@ And thats about it. The majority of this guide will walk you through documents, 
 ### Military Applicants
 #### School
 #### AFOQT
+See [here](a "Link coming soon...") for a breakdown of the AFOQT and studying tips. For military applicants, you may take the AFOQT on many military installations. Contact your local Education Office for scheduling and dates. I got lucky and my test center was on my local base, but other bases might not have the option to test locally. Also, the test was online and the scores were loaded within a week. Timelines may vary.
 #### CC Interview
 #### Letter of Recommendations
 As it currently stands, you need two [LORs][id2]. No more, no less. The first is a Personal LOR. It is meant to come from someone who knows you personally, and can speak to your character. It does not need to necessarily come from someone who is in the miltary, and does not need to be in MFR format. 
-The second LOR is the professional MFR. This needs to come from your Group CC, and be endorsed by your Wing CC. In my case, I wrote the LOR, my Group CC made small edits when they signed it. For my Wing, this was the very last step for my package. Because the Wing CC needs to rack and stack everyone's package for that board, the package needs to be basically complete before he sees it. So my Group CC signed my LOR, and sent it up to the Wing for the rack and stack. THIS PART OF THE PROCESS HAD DEADLINES WITHIN THE SQUADRON, GROUP, AND WING. 
+The second LOR is the professional MFR. This needs to come from your Group CC, and be endorsed by your Wing CC. In my case, I wrote the LOR, my Group CC made small edits when they signed it. For my Wing, this was the very last step for my package. Because the Wing CC needs to rack and stack everyone's package for that board, the package needs to be basically complete before he sees it. So my Group CC signed my LOR, and sent it up to the Wing for the rack and stack. ***THIS PART OF THE PROCESS HAD DEADLINES WITHIN THE SQUADRON, GROUP, AND WING.***
+
+Once the applicants are rack and stacked (or rejected), the Wing CC will send the packages back to the applicants. At this point it SHOULD be a complete package, and ready to be submitted. 
+Please note that the process may differ from Unit to Unit, especially the timeline. I submitted my package to the Group a full 3 months prior to the board, and the Wing didn't send me my package back until a week berfore the board deadline ended. Also, I had an in-person interview with our Wing CCC, and I know others didn't have an interview at all. It never hurts to be prepared. 
 ### Civillian Applicants
+#### School
+#### AFOQT
+See [here](a "Link coming soon...") for a breakdown of the AFOQT and studying tips.
+#### Interview
+#### Letter of Recommendations
 ### Other Avenues
