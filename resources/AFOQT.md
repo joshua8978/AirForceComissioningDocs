@@ -2,6 +2,7 @@
 The AFOQT is scored on a percentile based test, from 1 to 99, compared to a norm (not the group you are currently testing with). You are allowed to test ***TWICE***, and a third time with a waiver. The test is superscored, so if you score low on your Pilot, but high on Verbal, and on your second test you score high on Pilot and low on Verbal, the higher scores from both will be taken.
 
 # Minimum Required Scores
+
 |  Type of Officer    |  Verbal    |  Quantitative  |  Pilot  |  CSO    |  ABM    |
 |---------------------|:----------:|:--------------:|:-------:|:-------:|:-------:|
 |  Any                |  15        |  10            |  NO MIN |  NO MIN |  NO MIN |
