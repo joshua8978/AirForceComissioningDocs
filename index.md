@@ -14,6 +14,7 @@ This guide is intended to walk you through (roughly) the process of commissionin
 - [Board Info] Link coming soon...
 - [AFOQT](https://joshua8978.github.io/AirForceCommissioningGuide/resources/AFOQT)
 - [Packing List](https://otspackinglist.com)
+- [Post Selection] Link coming soon...
 
 ## Some Background
 Every fysical year somebody (idk who, someone with more knowledge shoot me a DM) puts out a list of Line Officer jobs that the AF needs filled. Typically, the AF prefers to fill these positions from the Air Force Academy first, then ROTC, and the finally the OTS Boards. Meaning everyone who applies for the OTS Boards are fighting for the leftovers. And because OTS is the most accessible, the pool is generally the largest compared to the Academy and ROTC, which also means it is the most competitive. The [AFRS][id1] ocassionally puts out statistics for the boards, which you can view an example [here](Link coming soon...). All in all, it's a long, competitive process, and many people don't get picked up their first time. But don't get discouraged! I've known a few people who got picked up after their 7th or 8th time applying. It always possible! It just depends on the needs of the Air Force.
